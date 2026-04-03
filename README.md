@@ -1,7 +1,7 @@
 # youtube_subtitle_blocker2
 
 A modified version of 
-(youtube-subtitle-blocker)[https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search]
+[youtube-subtitle-blocker](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
  with additional features and improvements. Say goodbye to YouTube hardcoded Subtitles!
 
 Features
