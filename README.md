@@ -9,8 +9,13 @@ Features
 2. Resizable subtitle blocker div for flexible positioning.
 3. Stores the blocker’s position and size locally and reuses it across sessions.
 
+
+![Screenshot](./Screenshot_20260407_194944.png)
+
 ## install
-[youtube_subtitle_blocker2](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-blocker2/)
+[on Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-blocker2/)
+
+[on Chrome](https://chrome.google.com/webstore/detail/bhcielkibmaibfcjjmolgpapmlpooaph)
 
 ## build
 ```

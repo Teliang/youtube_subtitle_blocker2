@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Subtitle Blocker",
+  "name": "YouTube Subtitle Blocker2",
   "version": "2.0",
   "permissions": [
     "tabs","storage"
@@ -9,7 +9,8 @@
   "background": {
     "scripts": [
       "background.js"
-    ]
+    ],
+    "service_worker": "background.js"
   },
   "content_scripts": [
     {
