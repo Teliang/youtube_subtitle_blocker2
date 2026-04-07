@@ -20,5 +20,5 @@ Features
 ## build
 ```
 yay -S web-ext
-web-ext build
+web-ext build --overwrite-dest
 ```
