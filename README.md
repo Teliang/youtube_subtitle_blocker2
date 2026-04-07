@@ -15,7 +15,7 @@ Features
 ## install
 [on Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-blocker2/)
 
-[on Chrome](https://chrome.google.com/webstore/detail/bhcielkibmaibfcjjmolgpapmlpooaph)
+[on Chrome](https://chrome.google.com/webstore/detail/ndcffcjojldagnchaahihkgbmfaghhnl)
 
 ## build
 ```
