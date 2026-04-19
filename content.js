@@ -30,7 +30,7 @@ function applyAction(settings) {
   overlay.style.width = settings.width || "600px"; // Set width from the popup
   overlay.style.height = settings.height || "50px"; // Set height from the popup
   overlay.style.backgroundColor = "rgba(255, 255, 255, 0.5)"; // Semi-transparent background
-  overlay.style.backdropFilter = "blur(5px)"; // Apply blur effect
+  overlay.style.backdropFilter = "blur(10px)"; // Apply blur effect
   overlay.style.zIndex = "9999"; // Ensure it's on top of all other elements
   overlay.style.pointerEvents = "all"; // Allows interaction
   overlay.style.cursor = "move"; // Change cursor to indicate draggable
